@@ -1,0 +1,14 @@
+.card {}
+
+.container {
+    text-align: center;
+}
+
+.card-image img {
+    height: 200px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.filter.row {
+    padding-top: 20px;
+}
